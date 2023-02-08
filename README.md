@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc653cc9-53f1-4205-8f60-4efd05c921c2/deploy-status)](https://app.netlify.com/sites/future-mobility/deploys)
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
